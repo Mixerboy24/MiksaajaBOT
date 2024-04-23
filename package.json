@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@twurple/auth": "^7.1.0",
+    "@twurple/auth-tmi": "^7.1.0"
+  },
+  "name": "miksaajabot",
+  "version": "1.2.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mixerboy24",
+  "license": "ISC",
+  "description": ""
+}
