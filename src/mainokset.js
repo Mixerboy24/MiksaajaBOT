@@ -3,7 +3,8 @@ let mainosajastin;
 
 const mainosviestit = [
     "Kaupallinen yhteistyö: LocalghostFI tarjoaa huippuluokan ja kotimaiset pelipalvelimet, jotka mahdollistavat mahtavat pelihetket ystävien kanssa. Käytä alennuskoodia 'mixerboy24' ja saat huikeat -30% ensimmäisestä tilauksestasi! https://lgfi.fi/peliservu",
-    "Liity Miksaaja City Discord-yhteisöön: https://miksaaja.city"
+    "Liity Miksaaja City Discord-yhteisöön: https://miksaaja.city",
+    "Kaupallinen yhteistyö: Net9 Oy:ltä saat IT-ratkaisut verkkosivuista webhotelleihin. Valikoimasta löydät myös laajasti verkkotunnuksia. Käytä koodia 'Mixerboy24' saadaksesi -10% alennusta! Käy tutustuu: https://link.mb24.fi/net9"
   ];
   
 // Funktio, joka lähettää satunnaisen mainosviestin kanavalle
