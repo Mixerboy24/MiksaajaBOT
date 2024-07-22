@@ -14,6 +14,6 @@ Botissa on seuraavat komennot jotka toimii Mixerin twitch kanavalla:
 ```
 
 Huomioitan ettei repoon oteta vastaan PR:iä, mikäli teet PR, annat luvan että sitä voi käyttää botissa tuleivaisuudessa. 
-Botti komennot kanntaa ehdottaa Discordissa tai Mixerin livelähetyksissä.
+Botti komennot kannattaa ehdottaa Discordissa tai Mixerin livelähetyksissä.
 
 Botin tekijänoikeudet (c) Mixerboy24
